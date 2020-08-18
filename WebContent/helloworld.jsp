@@ -14,5 +14,6 @@
 	int sum = num1 + num2;
 %>
 <%= sum %>
+<a href = "http://localhost:8080/web-study-01/AdditionServlet01?no=6&name=intern">전송</a>
 </body>
 </html>
